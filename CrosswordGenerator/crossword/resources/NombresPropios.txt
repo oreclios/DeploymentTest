@@ -1,0 +1,671 @@
+AARON	Hebreo 	Elevado
+ABEL	Hebreo 	Aliento
+ABELARDO	Germano 	Noble
+ABIGAIL		Hebreo 	Fuente de alegrIa
+ABRAHAM 	Hebreo 	Padre superior
+ABRIL 	Latino 	Apertura
+ADA 	Hebreo 	Belleza
+ADALBERTO 	Germano 	Que brilla noblemente
+ADAN 	Hebreo 	Hombre de la tierra
+ADELA 	Germano 	De noble cuna
+ADELAIDA 	Germano 	De noble cuna
+ADELINA 	Germano 	De noble cuna
+ADELMO 	Germano 	Noble
+ADOLFO 	Germano 	Lobo, noble
+ADRIAN 	Latino 	Del Mar AdriAtico
+ADRIANO 	Latino 	Negro
+AGATA 	Griego 	Buena, amable
+AGUEDA 	Griego 	Buena, amable
+AGUSTIN 	Latino 	Perteneciente a Agosto
+AIDA 	Italiano 	Conductora
+AINARA 	Vasco 	Desconocido
+ALAN 	Germano 	De la tribu de los alanos
+ALBANO 	Latino 	Blanco, puro, luminoso
+ALBERTO 	Germano 	Que brilla con nobleza
+ALCIRA 	Arabe 	Natural de Algeciras
+ALDO 	Germano 	Experto
+ALEJANDRO 	Griego 	Protector de los hombres
+ALEJANDRA 	Griego 	Protectora de los hombres
+ALEJO 	Germano 	Arroja el mal
+ALFONSO 	Germano 	Estratega
+ALFREDO 	Germano 	Consejero
+ALICIA 	Germano 	Consuelo
+ALINA 	Germano 	Amiga noble
+ALMUDENA 	Arabe 	La ciudad
+ALONSO 	Germano 	Estratega
+ALVARO 	Germano 	Atento
+AMADEO 	Latino 	Que ama a Dios
+AMALIA 	Germano 	Laboriosa
+AMANCIO 	Latino 	Amante
+AMANDA 	Latino 	Merecedora de amor
+AMARANTO 	Griego 	Flor eterna
+AMAYA 	Vasco 	Principio del fin
+AMOS 	Hebreo 	Carga
+AMBROSIO 	Griego 	Inmortal, divino
+AMELIA 	Germano 	Afanosa, enErgica
+AMIRA 	Arabe 	La princesa
+AMPARO 	Latino 	Protectora
+ANA 	Hebreo 	Graciosa
+ANACLETO 	Griego 	Que invoca auxilio
+ANASTASIA 	Griego 	ResurrecciOn
+ANDER 	Vasco 	Del griego andros
+ANDRES 	Griego 	Viril
+ANGEL/A 	Griego 	Mensajer0
+ANGELICA 	Griego 	Mensajera
+ANGELES 	Griego 	Buena, pura
+ANIBAL 	Fenicio 	Gracia de Baal
+ANICETO 	Griego 	Invicto
+ANGUSTIAS 	Latino 	Angosto, difIcil
+ANSELMO 	Germano 	Guerrero del Señor
+ANTONIO 	Latino 	Digno de alabanza
+ANTONIA 	Latino 	Digno de alabanza
+ANTONIETA 	Latino 	Flor llena de gracia
+APOLO 	Griego 	Dios del sol
+AQUILES 	Griego 	Consuelo en el dolor
+AQUILINO 	Latino 	Como el Aguila
+ARACELI 	Latino 	Altar del cielo
+ARCHIBALDO 	Germano 	Muy valiente
+ARIADNA 	Griego 	De dulce canto
+ARIEL 	Hebreo 	LeOn de Dios
+ARISTIDES 	Griego 	Hijo del mejor
+ARMANDO 	Germano 	Conductor de huestes
+ARNOLDO 	Germano 	Fuerte como un Aguila
+ARTURO 	Celta 	Alto, noble
+ASUNCION 	Latino 	ElevaciOn
+ATANASIO 	Griego 	Inmortal
+AUGUSTO 	Latino 	Imperial
+AURELIO 	Latino 	Dorado
+AURELIA 	Latino 	Dorado
+AURORA 	Latino 	Amanecer
+AUXILIADORA 	Latino 	Que ayuda en situaciones difIciles
+AXEL 	Germano 	Recompensa del cielo
+AZUZENA 	Arabe 	Lirio
+BALDOMERO 	Germano 	Audaz, insigne
+BALTASAR 	Caldeo 	Dueño del tesoro
+BARACK 	Africano 	Beato, bendito
+BARBARA 	Griego 	Extranjera
+BARTOLOME 	Hebreo 	Anciano
+BASILIO 	Griego 	Majestuosamente
+BAUTISTA 	Griego 	Bautizador
+BEATRIZ 	Latino 	Que hace feliz
+BELEN 	Hebreo 	Casa del pan
+BELINDA 	Latino 	Graciosa
+BELTRAN 	AlemAn 	Audaz
+BENIGNO 	Latino 	Bueno
+BENITO 	Latino 	Bendito
+BENJAMIN 	Hebreo 	Hijo favorito
+BERENICE 	Griego 	Ella da la victoria
+BERNABE 	Hebreo 	Hijo de la profecIa
+BERNARDINO 	Germano 	Oso fuerte
+BERNARDINA 	Germano 	Osa fuerte
+BERNARDO 	Germano 	Audaz como un oso
+BERTA 	Germano 	Brillante
+BIANCA 	Germano 	Blanca
+BIBIANA 	Latino 	Vital
+BLANCA 	Germano 	Pura, brillante
+BLAS 	Griego 	Tartamudo
+BRENDA 	AnglosajOn 	Cuervo
+BONIFACIO 	Latino 	Bienhechor
+BORIS 	Ruso 	Pelea
+BRIGIDA 	Celta 	fuerza
+BRUNILDA 	Germano 	Doncella oscura de la batalla
+BRUNO 	Germano 	Oscuro
+CALIXTO 	Griego 	De gran belleza
+CAMELIA 	Latino 	Taza
+CAMILA 	Latino 	La que espera el sacrificio
+CANDIDO 	Latino 	Blanco
+CARIDAD 	Latino 	Amor
+CARINA 	Griego 	Puro, inocente
+CARLOS 	Germano 	Fuerte, viril
+CARLA 	Germano 	Fuerte
+CARMELO 	Hebreo 	Viña
+CARMEN 	Latino 	Verso, cantar
+CAROLA 	Germano 	Fuerte
+CAROLINA 	Germano 	Realtiva a lo viril
+CASILDA 	Arabe 	Cantarina
+CASIMIRO 	Eslavo 	Mira por la paz
+CATALINA 	Griego 	Pura
+CAYETANO 	Latino 	Natural de Gaeta
+CECILIA 	Latino 	Justa
+CELESTINA 	Latino 	Celestial
+CELIA 	Latino 	Abreviatura de Celestina
+CELINA 	Latino 	Abreviatura de Celestina
+CRISANTO 	Griego 	Flor de oro
+CRISTIAN 	Griego 	Hombre de Cristo
+CRISTINA 	Latino 	La que sigue a Cristo
+CELSO 	Latino 	Excelso
+CESAR 	Latino 	Adorno del cabello
+CESAREO 	Latino 	Nacido por cesArea
+CINTIA 	Griego 	Del lugar de Kinthos
+CIPRIANO 	Latino 	Delgado, transparente
+CIRILO 	Griego 	Señorial
+CIRO 	Persa 	El sol
+CLARA 	Latino 	Brillante, ilustrada
+CLAUDIO 	Latino 	Cojo
+CLAUDIA 	Latino 	Coja
+CLEMENTE 	Latino 	Misericordioso, suave
+CLEOPATRA 	Griego 	Gloria de su tierra
+CLOTILDE 	Germano 	Famosa en la batalla
+CONCEPCION 	Latino 	Que concibe
+CONRADO 	Germano 	Audaz,consejero, sabio
+CONSTANCIO 	Latino 	Firme, fidedigno
+CONSTANTINO 	Latino 	Firme
+CONSUELO 	Latino 	Advertencia
+CORA 	Griego 	Doncella
+CORDELIA 	Celta 	Joya del mar
+CORNELIO 	Latino 	Coronado
+COSME 	Griego 	Adornado
+CRISTOBAL 	Griego 	Que llevo a Cristo
+CRISOSTOMO 	Griego 	Boca de oro
+CRUZ 	Latino 	Cruz
+DAGOBERTO 	Germano 	El que lleva la espada
+DANA 	Hebreo 	Justicia
+DANIEL 	Hebreo 	Dios es juez
+DARIO 	Persa 	Preservador
+DAVID 	Hebreo 	Amado
+DEBORA 	Hebreo 	Abeja, industriosa
+DELIA 	Griego 	Casta
+DELMIRO 	Germano 	De nobleza insigne
+DEMETRIO 	Griego 	Sagrado para la tierra
+DIANA 	Latino 	Diosa de la luna
+DIEGO 	Hebreo 	Suplantador
+DINA 	Hebreo 	Vengada
+DIONISIO 	Griego 	Que pertenece a Dionisios
+DOLORES 	Latino 	Pesares
+DOMINGO 	Latino 	Hijo del Señor
+DOMINICO 	Latino 	Hijo del Señor
+DONATO 	Latino 	Regalo de Dios
+DORA 	Griego 	Regalo de Dios
+DULCINEA 	Latino 	Dulce
+EDGARDO 	Germano 	Justo, protector
+EDITH 	Germano 	Rico don
+EDMUNDO 	Germano 	Paz bendita
+EDUARDO 	Germano 	GuardiAn de las mercancIas
+EFRAIN 	Hebreo 	FructIfero
+EFREN 	Hebreo 	FructIfero
+ELENA 	Griego 	Luz
+ELEONOR 	Griego 	Luz
+ELIAS 	Hebreo 	El Señor es Dios
+ELISA 	Hebreo 	Dios del juramento
+ELISABETH 	Hebreo 	Consagrada a Dios
+ELOISA 	Germano 	Combatiente gloriosa
+ELOY 	FrancEs 	Elegido
+ELSA 	Germano 	Regocijo
+ELVIRA 	Latino 	Noble, bravIa
+EMILIA 	Griego 	Graciosa
+EMILIO 	Griego 	Gracioso
+EMA 	Griego 	Que tiene gracia
+EMANUEL 	Hebreo 	Dios con nosotros
+EMILIO 	Griego 	Amable
+ENCARNACION 	Latino 	Hacerse carne
+ENGRACIA 	Latino 	Favorecida por Dios
+ENRIQUE 	Germano 	Poderoso de su linaje
+ERASMO 	Griego 	Que merece amor
+ERICO 	Germano 	Heroico
+ERIC 	Germano 	Heroico
+ERICA 	Germano 	Heroico
+ERNESTO 	Germano 	Serio, celoso
+ESMERALDA 	Latino 	La muy admirada
+ESPERANZA 	Latino 	Deseo
+ESTEBAN 	Griego 	Merecidamente coronado
+ESTEFANIA 	Griego 	Merecidamente coronada
+ESTELA 	Latino 	Estrella
+ESTER 	Persa 	Estrella buena fortuna
+ETEL 	Germano 	Noble
+EUCLIDES 	Griego 	De buena reputaciOn
+EUDOSIA 	Griego 	De la que bien se piensa
+EUDOXIO 	Griego 	Del que bien se piensa
+EUFEMIO 	Griego 	De buena palabra
+EUFEMIA 	Griego 	De buena palabra
+EUFRASIO 	Griego 	Regocijante
+EUFRASIA 	Griego 	regocijante
+EUGENIO 	Griego 	Bien nacido
+EUGENIA 	Griego 	Bien nacida
+EULALIO 	Griego 	Bien hablado
+EULALIA 	Griego 	bien hablada
+EUSEBIO 	Griego 	Piadoso
+EUSTAQUIO 	Griego 	Sano, firme
+EVA 	Hebreo 	Vida
+EVANGELINA 	Griego 	Que trae buenas nuevas
+EVARISTO 	Griego 	Optimo
+EZEQUIEL 	Hebreo 	El Señor es mi fuerza
+FABIAN 	Latino 	Granjero
+FABIOLA 	Latino 	Cultivadora de habas
+FANNY 	Germano 	Libre
+FATIMA 	Arabe 	Doncella, joven
+FAUSTINO 	Latino 	Afortunado
+FAUSTO 	Latino 	Afortunado
+FEDERICO 	Germano 	Que gobierna en paz
+FEDOR 	Griego 	Don de Dios
+FELIX 	Latino 	Feliz
+FELIPE 	Griego 	Amante de los caballos
+FERMIN 	Latino 	Fuerte y firme
+FERNANDO 	Germano 	Valiente pero pacIfico
+FIDEL 	Latino 	Fiel
+FILIBERTO 	Griego 	Inteligente
+FILOMENO 	Griego 	Amante del canto
+FLAVIO 	Latino 	De cabellos rubios
+FLORA 	Latino 	Flor, Diosa de las flores
+FLORENCIO 	Latino 	Florido
+FLORENCIA 	Latino 	Florida
+FLORIDA 	Latino 	Colorida
+FLORINDA 	Latino 	Colorida
+FLORIAN 	Latino 	Floreciente, prOspero
+FRANCISCO 	Germano 	Libre
+FRANCO 	Germano 	Libre
+FRIDA 	Germano 	PacIfica
+FROILAN 	Germano 	Compañero
+FULVIO 	Latino 	Dorado
+GABRIEL 	Hebrero 	Fuerza de Dios
+GEMA 	Latino 	Piedra preciosa
+GASPAR 	Persa 	Tesorero
+GEDEON 	Hebreo 	De la colina
+GENOVEVA 	Celta 	Espuma de mar
+GERARDO 	Germano 	HAbil en armas
+GERMAN 	Latino 	AlemAn
+GERTRUDIS 	Germano 	Veraz
+GILBERTO 	Germano 	Sirviente brillante
+GLADIS 	Celta 	Que gobierna un gran territorio
+GLORIA 	Latino 	Fama
+GODOFREDO 	Germano 	Paz de Dios
+GRACIA 	Latino 	Gracia
+GRACIELA 	Latino 	Agraciada
+GREGORIO 	Griego 	Vigilante
+GRISEL 	Germano 	De ojos grises
+GABRIELA 	Hebreo 	Mujer de Dios
+GORKA 	Vasco 	El que trabaja la tierra
+GUIDO 	Latino 	GuIa, conductor
+GUILLERMO 	Germano 	Casco de oro
+GUSTAVO 	Germano 	BAculo del godo
+HAROLDO 	Germano 	General
+HAYDEE 	Griego 	Acariciada
+HEBE 	Griego 	Juventud
+HELENA 	Griego 	Antorcha
+HELI 	Hebreo 	De Dios
+HECTOR 	Griego 	Prudente defensor
+HERIBERTO/A 	Germano 	De ejErcito distinguido
+HERMELANDO 	Germano 	De antigua tribu germAnica
+HERMINIO/A 	Germano 	EnErgica
+HERNAN 	Germano 	Atrevido, bravo
+HIGINIO/A 	Griego 	Vigoroso
+HILDA 	Germano 	Poderosa en la batalla
+HIPOLITO 	Griego 	Caballo de piedra
+HOMERO 	Griego 	Prenda
+HONORIO 	Latino 	Honorable
+HORACIO 	Latino 	De mirada penetrante
+HORTENSIA/O 	Latino 	Flor, jardinera
+HUGO 	Germano 	Altivo, inteligente
+HUBERTO 	Germano 	Inteligencia luminosa
+HUMBERTO 	Germano 	Muy brillante
+HELENIA 	Latino 	Griega
+IDA 	Griego 	Feliz
+IDEFONSO 	Germano 	Luchador
+IGNACIO 	Griego 	Orgulloso
+IMANOL 	Vasco 	Dios con nosotros
+IMELDA 	Germano 	Poderosa en la lucha
+IÑIGO 	Griego 	Orgulloso
+INDALECIO 	Vasco 	Fuerza
+INES 	Griego 	Pura, casta
+INGRID 	Germano 	De la tribu de los ingviones
+IRENE 	Griego 	Paz
+IRIS 	Griego 	Arco iris
+IRMA 	Germano 	Noble doncella
+ISAAC 	Hebreo 	El que rIe
+ISABEL 	Hebreo 	Dios del Juramento
+ISIDORO 	Griego 	Don equitativo
+ISAIAS 	Hebreo 	SalvaciOn del señor
+ISRAEL 	Hebreo 	PrIncipe de Dios
+IVAN 	Hebreo 	Dios es misericordioso
+IVONNE 	Germano 	Gloriosa
+ISIS 	Egipcio 	Trono
+IZASKUN 	Vasco 	Retamal
+JACINTO 	Griego 	Flor
+JACOBO 	Hebreo 	Suplantador
+JAQUELINE 	FrancEs 	Que se agarra el talOn
+JAIRO 	Hebreo 	Dios quiere lucir
+JAVIER 	Vasco 	Casa nueva
+JAZMIN 	Persa 	Flor del mismo nombre
+JAIME 	Hebreo 	Suplantador
+JENNIFER 	GalEs 	Blanca como la espuma del mar
+JEREMIAS 	Hebreo 	Elevado por el Señor
+JERONIMO 	Griego 	Sagrado
+JESSICA 	EscocEs 	Forma escocesa de Juana
+JESUS 	Hebreo 	Diminutivo de JehovA
+JOAQUIN 	Hebreo 	El Señor juzgarA
+JOB 	Hebreo 	Perseguido
+JONATAN/JONHATAN 	Hebreo 	Don de Dios
+JORGE 	Griego 	Agricultor
+JOSE 	Hebreo 	AmentarA
+JOSEFA 	Hebreo 	Dios proveerA
+JOSEFINA 	Hebreo 	Dios darA
+JONAS 	Hebreo 	Paloma
+JOSUE 	Hebreo 	El Señor es la salvaciOn
+JUAN 	Latino 	Don gracioso de Dios
+JUANA 	Latino 	Don de Dios
+JUDA 	Hebreo 	Alabado
+JUDIT/JUDITH 	Hebreo 	Alabada
+JULIA 	Latino 	De cabello suave
+JULIANA 	Latino 	De cabello suave
+JULIO 	Latino 	De mucho pelo, barbudo
+JULIAN 	Latino 	De mucho pelo, barbudo
+JUSTINIANO 	Latino 	Recto
+JUSTO 	Latino 	Recto
+KAREN 	DanEs 	Pura, inmaculada
+KATIA 	Ruso 	Pura, inmaculada
+KEVIN 	IrlandEs 	Bonito nacimiento
+KOLDO 	Vasco 	Guerrero victorioso
+KILIAN 	IrlandEs 	Combate
+KRISHNA 	HindU 	Oscuro
+KEPA 	Vasco 	Piedra
+KENNETH 	EscocEs 	Bien asentado
+KARMELE 	Vasco 	JardIn de Dios
+KARL 	InglEs 	Hombre fuerte
+KURT 	Germano 	Valiente
+KALI 	HindU 	Oscuro
+KARIM 	Arabe 	El generoso
+KIRA 	Ruso 	Antorcha
+KARINA 	Griego 	Graciosa
+KERRY 	InglEs 	Variante de Kerrie
+KERMAN 	FrancEs 	Hombre que lucha
+KEISI 	Griego 	Hermosa
+KENAN 	Hebreo 	Adquirir
+KATYUSKA 	Ruso 	Pura
+KASSANDRA 	Griego 	Hermosa
+LAMBERTO 	Germano 	Oveja bravIa
+LAURA 	Latino 	Laurel
+LAZARO 	Hebreo 	Ayuda de Dios
+LEANDRO 	Griego 	CElebre
+LEON 	Latino 	LeOn
+LEONARDO 	Germano 	Fuerte como un leOn
+LEONIDAS 	Griego 	Como el leOn
+LEONOR 	Griego 	Luz
+LEONORA 	Griego 	Luz
+LEOPOLDO 	Germano 	PrIncipe del pueblo, fuerte y amado
+LETICIA 	Latino 	Felicidad
+LIA 	Hebreo 	LAnguida
+LIDA 	Eslavo 	amada del pueblo
+LIDIA/LYDIA 	Griego 	Nacida en Lydia
+LILIANA 	Latino 	Lirio
+LINA 	Germano 	Diminutivo de Carola
+LINDA 	Latino 	Graciosa
+LORENZO 	Latino 	Corona de laurel
+LUCAS 	Griego 	Luminoso
+LUCIA 	Latino 	Luminosa
+LUCIANO 	Latino 	Luminoso
+LUCIO 	Latino 	Luminoso
+LUCRECIA 	Latino 	Afortunada
+LUIS 	Germano 	Defensor del pueblo
+MABEL 	Celta 	Alegre
+MACARENA 	Sevillano 	Alusivo al barrio del mismo nombre
+MAGALI 	Provenzal 	Perla
+MAGDALENA 	Hebreo 	Torre, vigilante
+MAITE 	Vasco 	EncarnaciOn
+MALVINA 	Celta 	Criada
+MANUEL 	Hebreo 	Dios con nosotros
+MARCELO 	Latino 	Guerrero
+MARCOS 	Hebreo 	Amargo
+MARGARITA 	Griego 	Perla
+MARIA 	Hebreo 	Señora
+MARIANA 	Hebreo 	Señora en la gracia de Dios
+MARTA 	Hebreo 	Afligida
+MARTIN 	Latino 	Guerrero
+MATEO 	Hebreo 	Don del Señor
+MATIAS 	Hebreo 	Don del Señor
+MATILDE 	Germano 	Poderosa en la batalla
+MAURICIO 	Latino 	Moro, de color oscuro
+MAURO 	Latino 	Moro
+MAXIMILIANO 	Latino 	De los mAs grandes
+MAXIMO 	Latino 	De los mAs grandes
+MIGUEL 	Hebreo 	¿QuiEn es como Dios?
+MINA 	Latino 	Pequeña
+MIRIAM 	Hebreo 	RebeliOn
+MIRTA 	Griego 	Mirto, sImbolo de belleza
+MOISES 	Hebreo 	Salvado de las aguas
+MONICA 	Griego 	Solitaria
+NAPOLEON 	Griego 	LeOn de la nueva ciudad
+NARCISO 	Griego 	Hermoso
+NATALIA 	Latino 	ReciEn nacida
+NATAN 	Hebreo 	Don de Dios
+NAUM 	Hebreo 	Confortador
+NELIDA 	Griego 	Luz
+NESTOR 	Griego 	El que recuerda
+NICOLAS 	Griego 	Conquistador
+NIDIA 	Latino 	Ave reciEn salida del nido
+NOE 	Hebreo 	Descanso
+NORMA 	Latino 	Modelo
+NURIA 	Latino 	AdvocaciOn catalana a la Virgen MarIa
+NADIR 	Arabe 	Raro, precioso
+NOA 	Hawaiano 	Libertad
+NAZARET 	Hebreo 	Ciudad de Nazaret
+NEREA 	Griego 	La que fluye
+NICOLAS 	Griego 	Victoria
+NOEMI 	Hebreo 	AlegrIa, delicia
+NADIA 	Ruso 	Esperanza
+OBAMA 	Africano 	Ligeramente dobladas
+OCTAVIO 	Latino 	Octavo
+OFELIA 	Griego 	Serpiente
+OLGA 	Germano 	Sagrada
+OLIMPIA 	Griego 	Celestial
+OLIVER 	Latino 	El que porta la rama de olivo
+OLIVERIO 	Latino 	El que porta la rama de olivo
+OLIVIA 	Latino 	El olivo
+OMAR 	Arabe 	Mejor
+ORLANDO 	Italiano 	Fama del paIs
+OSCAR 	Celta 	guerrero saltarIn
+OSVALDO 	Germano 	Regidor divino
+OTON 	Germano 	Montaña
+OVIDIO 	Latino 	Oveja
+OSIRIS 	Egipcio 	Ser poderoso
+ORION 	Griego 	Montaña
+ORIOL 	CatalAn 	Oro
+OLEGUER 	CatalAn 	Preparado para la lucha
+OLAYA 	Griego 	Aquella que habla bien
+PABLO 	Latino 	Pequeño
+PANFILO 	Griego 	Amigo de todos
+PALOMA 	Latino 	Paloma
+PASCUAL 	Latino 	De la Pascua
+PATRICIA 	Latino 	Noble
+PAULA 	Latino 	Pequeña
+PAULINO 	Griego 	El mAs pequeño
+PAZ 	Latino 	AdvocaciOn a Mariana
+PEDRO 	Griego 	Roca
+PENELOPE 	Griego 	Aumenta lo tejido
+PERLA 	Latino 	SImbolo de salud
+PILAR 	Latino 	Alta, fuerte
+PIEDAD 	Latino 	DevociOn
+PIO 	Latino 	Devoto
+PRISCILA 	Latino 	Antigua, venerable
+PRUDENCIA 	Latino 	Virtud de ser prudente
+PURA 	Latino 	Sin mancha
+PELAYO 	Griego 	Tener voluntad de escoger
+POMPEYA 	Latino 	Cinco
+PETRA 	Griego 	Piedra
+QUERUBIN 	Hebreo 	EspIritu
+QUINTINA 	Latino 	Quinto
+QUIRICO 	Latino 	Variante de Ciriaco
+QUETZALCOATL 	Azteca 	Serpiente emplumada
+QULIDONIA 	Griego 	Golondrina
+QUITERIO 	Griego 	AquEl que liderO un pueblo
+QUIRIACO 	Griego 	Variante de Ciriaco
+QUIRINA 	Latino 	Divinidad
+QUODVULDEO 	Latino 	Porque Dios lo quiere
+RAFAEL 	Hebreo 	Dios ha curado
+RAIMUNDO 	Germano 	ProtecciOn sabia
+RAMIRO 	Germano 	Poderoso en la guerra
+RAMONA 	Germano 	Protectora sensata
+RAMON 	Germano 	Protector sensato
+RAQUEL 	Hebreo 	Oveja del señor
+RAUL 	FrancEs 	Guerrero atrevido
+REBECA 	Hebreo 	Lazo corredizo, trampa
+REINA 	Latino 	Reina
+REINALDO 	Germano 	Juez poderoso
+REGINA 	Latino 	Reina
+REMEDIOS 	Latino 	Alivio
+RENATO 	Latino 	Renacido
+RENE 	Latino 	Renacido
+RICARDO 	Germano 	Guerrero temerario
+RITA 	Latino 	Ceremoniosa
+ROBERTO 	Germano 	De fama brillante
+ROCIO 	Latino 	LAgrimas de flor
+RODOLFO 	Germano 	Lobo de fama
+RODRIGO 	Germano 	Rico en fama
+ROGELIO 	Germano 	Lanza de fama
+ROLANDO ROLAN 	Germano 	Fama del paIs
+ROMAN 	Latino 	De RumanIa
+ROMEO 	Latino 	Buen hombre de Roma
+ROMILDA 	Germano 	Guerrera famosa
+ROMILDO 	Germano 	Guerrero famoso
+RONALDO 	Germano 	Gobernante glorioso
+ROQUE 	Persa 	Elevado
+ROSA 	Latino 	La rosa
+ROSALIA 	Latino 	Rosa pequeña
+ROSAMUNDA 	Germano 	Guardia famosa
+ROSANA 	Latino 	Como una rosa
+ROSARIO 	Latino 	JardIn de rosas
+ROSENDO 	Germano 	Soldado
+ROXANA 	Persa 	La brillante
+RUBEN 	Hebreo 	¡He aquI un hijo!
+RUFINO 	Latino 	Rojo
+RUPERTO 	Germano 	De fama brillante
+RUTH 	Hebreo 	Amistad
+SABINA 	Latino 	Mujer sabina
+SAGRARIO 	Latino 	ReceptAculo sagrado
+SALOME 	Hebreo 	PacIfica
+SALOMON 	Hebreo 	PacIfico
+SALVADOR 	Latino 	Salvador
+SAMANTA 	Hebreo 	Que escucha
+SAMUEL 	Hebreo 	OIdo por Dios
+SANCHO 	Latino 	Santo
+SANDRA 	Germano 	Auxiliar de los hombres
+SANSON 	Hebreo 	Como el sol
+SANTIAGO 	Latino 	Suplantador
+SARA 	Hebreo 	Princesa
+SAUL 	Hebreo 	Llamado
+SEBASTIAN 	Griego 	Venerable, augusto
+SEGISMUNDO 	Germano 	Vencedor
+SERAFIN 	Hebreo 	Angel de fuego
+SERENA 	Latino 	Tranquila
+SERGIO 	Latino 	De Serbia
+SHEILA 	IrlandEs 	Celestial
+SILVANO 	Latino 	Del bosque
+SILVESTRE 	Latino 	RUstico
+SILVIA 	Latino 	Del bosque
+SIMON 	Hebreo 	El que escucha
+SIRO 	Persa 	Sol
+SIXTO 	Griego 	Adulador
+SOCORRO 	Latino 	Dispuesta a ayudar
+SOFIA 	Griego 	SabidurIa
+SOL 	Latino 	Astro rey
+SOLANGE 	FrancEs 	Solemne
+SOLEDAD 	Latino 	Sin compañIa
+SORAYA 	Persa 	Excelente
+SONIA 	Griego 	Sabia pensadora
+SUSANA 	Hebreo 	Lirio
+SUYAY 	Quechua 	Esperar, aguardar
+TADEO 	Hebreo 	OraciOn de gracias
+TAMARA 	Hebreo 	Palmera
+TANIA 	Ruso 	Procede de Tacio, Rey de los sabinos
+TATIANA 	Latino 	Defensora
+TELMA 	Griego 	Favorita
+TEOBALDO 	Germano 	PrIncipe del pueblo
+TEODORO 	Griego 	Don de Dios
+TEODORICO 	Germano 	Regla del pueblo
+TEODOSIO 	Griego 	Dado divinamente
+TEOFILO 	Griego 	Amante de Dios
+TERESA 	Griego 	Que lleva espigas de trigo
+TIRSO 	Latino 	Rama de vid
+TITO 	Latino 	Defensor
+TIMOTEO 	Griego 	Que honra a Dios
+TOBIAS 	Hebreo 	El Señor es bueno
+TOMAS 	Hebreo 	Mellizo, gemelo
+TRINIDAD 	Latino 	Tres en uno
+TRISTAN 	EscocEs 	Pacto, consuelo
+TRIANA 	Latino 	Barrio de Triana, Sevilla
+THAIS 	Latino 	Bella por muchos años
+ULISES 	Griego 	ColErico, iracundo
+ULRICO 	Germano 	Noble señor
+URBANO 	Latino 	Dios del hogar
+URBANA 	Latino 	Diosa del hogar
+URIEL 	Hebreo 	Luz de Dios
+URSULA 	Latino 	Osa pequeña
+URANO 	Griego 	Dios de los cielos
+URKO 	Vasco 	Abedul
+URSO 	Latino 	Oso
+UNAX 	Vasco 	Desconocido
+ULFRIDA 	Germano 	Paz
+USOA 	Vasco 	Paloma
+URANIA 	Griego 	Del cielo
+UNAI 	Vasco 	Pastor, vaquero
+VALENTIN 	Latino 	Fuerte, valeroso
+VALENTINA 	Latino 	Fuerte, valerosa
+VALERIA 	Latino 	Sana
+VALERIO 	Latino 	Sano
+VANESA 	InglEs 	Procede del poema Cadenus and Vanessa
+VENTURA 	Latino 	Afortunado
+VELASCO 	Germano 	Cuervo
+VERA 	Latino 	Verdadera
+VERONICA 	Latino 	Imagen de la verdad
+VICENTE 	Latino 	Conquistador
+VICTOR 	Latino 	Vencedor
+VICTORIA 	Latino 	Vencedora
+VICTORIANO 	Latino 	Vencedor
+VIDA 	Latino 	VacIa
+VILMA 	Germano 	Protectora
+VIOLETA 	Latino 	Modestia
+VIRGILIO 	Latino 	Floreciente
+VIRGINIA 	Latino 	Virgen
+VIVIANA 	Latino 	Vivaz, animada
+VLADIMIR 	Eslavo 	Gloria del prIncipe
+WALTER 	Germano 	Caudillo del ejErcito
+WENCESLAO 	Checo 	El mAs glorioso
+WILFREDO 	Germano 	Pacificador decidido
+WULSTANA 	Germano 	Loba de piedra
+WULFRANO 	Germano 	cuervo blanco de OdIn
+WITERICO 	Germano 	Bosque poderoso
+WANG 	Chino 	Rey
+WENDY 	InglEs 	De la novela de Peter Pan
+WALID 	Arabe 	Nacer
+WILLIAM 	Germano 	Protector decidido
+WALDO 	Germano 	EspIritu audaz
+XAVIER 	CatalAn 	Casa nueva
+XABIER 	Vasco 	Casa nueva
+XIMENA 	Gallego 	Variante de Jimena
+XENIA 	Griego 	HuEsped, extranjero
+XURXO 	Gallego 	Variante de Jorge
+XENXO 	Griego 	Protector de la familia
+XIAN 	Chino 	Aquella que vive recluIda
+XANA 	Griego 	Amarillo
+XUXA 	Hebreo 	Casta y pura
+XANTHE 	Griego 	Hermosa cabellera
+XOLA 	Africano 	Estar en Paz
+XANNA 	Griego 	Pelo de oro
+XARIA 	Americano 	Regalo de amor
+XENO 	Griego 	Voz extranjera
+YAGO 	Gallego 	Igual a Jacobo
+YERAY 	Canario 	Grande
+YOLANDA 	Germano 	La mAs justa
+YONATAN 	Hebreo 	PrIncipe de Israel
+YOLOTL 	NAhuatl 	CorazOn
+YEUDIL 	Hebreo 	ArcAndel
+YEHUDI 	Hebreo 	Hijo de Natanael
+YAHVE 	Hebreo 	Dios de Israel
+YVONNE 	FrancEs 	La arquera
+YUSUF 	Arabe 	Equivalente a JosE
+YURI 	Ruso 	Equivalente a Jorge
+YONE 	Griego 	De la mitologIa clAsica
+YASIR 	Arabe 	Rico
+YAIZA 	Canario 	Desconocido
+ZACARIAS 	Hebreo 	El Señor ha recordado
+ZENOBIA 	Arabe 	Orgullo de su padre
+ZOE 	Griego 	Vida
+ZITA 	Toscano 	Muchacha alegre
+ZORAIDA 	Arabe 	Mujer cautivadora
+ZULEMA 	Hebreo 	Amante de la paz
+ZEUS 	Griego 	Dios supremo
+ZENAIDA 	Griego 	Derivado de Zeus
+ZENON 	Griego 	Supeditado al dios Zeus
+ZOLTAN 	Magiar 	SultAn
+ZURIÑE 	Vasco 	Blanco
+ZAIDA 	Arabe 	Crecer
+ZAHARA 	Arabe 	Flor
+ZOE 	Hebreo 	Vida
